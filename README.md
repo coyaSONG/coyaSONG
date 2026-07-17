@@ -7,6 +7,7 @@ I use coding agents transparently; the work highlighted here is limited to
 upstream-merged contributions with reproducible validation.
 
 [Blog](https://coyasong.dev) ·
+[Portfolio](https://coyasong.dev/portfolio) ·
 [Merged open-source contributions](https://github.com/pulls?q=is%3Apr+author%3AcoyaSONG+is%3Amerged+-user%3AcoyaSONG) ·
 [YouTube Research MCP on npm](https://www.npmjs.com/package/@coyasong/youtube-mcp-server)
 
@@ -16,9 +17,23 @@ upstream-merged contributions with reproducible validation.
 | --- | --- |
 | [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | Citation-ready YouTube research for AI agents, with exact timestamp links and cross-video evidence |
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | Local-first runtime that keeps only verified improvements from recursive research experiments |
-| [tmuxicate](https://github.com/coyaSONG/tmuxicate) | Crash-safe, vendor-neutral coordination for coding agents in tmux and across machines over SSH |
+| [tmuxicate](https://github.com/coyaSONG/tmuxicate) | Durable, vendor-neutral coordination for coding agents in tmux, with explicit task, review, and blocker state |
+
+## Project pulse
+
+<!-- PROJECT-PULSE:START -->
+| Project | Stars | Latest release |
+| --- | ---: | --- |
+| [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | 15 | [YouTube Research MCP v1.2.0](https://github.com/coyaSONG/youtube-mcp-server/releases/tag/v1.2.0) |
+| [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
+| [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
+
+_Last updated 2026-07-17 via GitHub Actions._
+<!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
+
+Read the Korean case study: [how I turn merged pull requests into engineering evidence](https://coyasong.dev/posts/open-source-contribution-playbook).
 
 | Project | Contribution |
 | --- | --- |

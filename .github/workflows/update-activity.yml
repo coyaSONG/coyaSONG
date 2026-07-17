@@ -26,7 +26,7 @@ jobs:
         with:
           node-version: 24
 
-      - name: Update merged pull requests
+      - name: Update contributions and project pulse
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-activity.mjs
@@ -41,5 +41,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update merged contributions"
+          git commit -m "chore: update profile activity"
           git push
