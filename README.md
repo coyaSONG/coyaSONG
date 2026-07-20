@@ -28,7 +28,7 @@ upstream-merged contributions with reproducible validation.
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-07-17 via GitHub Actions._
+_Last updated 2026-07-20 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -47,17 +47,17 @@ Read the Korean case study: [how I turn merged pull requests into engineering ev
 ## Open-source footprint
 
 <!-- OSS-ACTIVITY:START -->
-**27 merged pull requests across 20 public projects.**
+**31 merged pull requests across 22 public projects.**
 
 Latest upstream merges:
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/6433) — Fix published pre-response handler types (2026-07-19)
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form/pull/5158) — Clarify playground example property names (2026-07-17)
+- [kopia/kopia](https://github.com/kopia/kopia/pull/5505) — refactor(general): use structured logging in diff (2026-07-17)
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21392) — Add Omnisend unsubscribe-by-email action (2026-07-17)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/6443) — Clarify GenericTag key documentation (2026-07-17)
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/pull/9109) — feat(work-view): show custom section task counts (2026-07-17)
-- [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager/pull/10305) — Avoid creating build directories for generated completion scripts (2026-07-17)
-- [tstack/lnav](https://github.com/tstack/lnav/pull/1725) — \[laravel_log\] support hyphenated channels (2026-07-16)
-- [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/6416) — fix(vitest): preserve schema arbitraries in records (2026-07-16)
 
-_Last updated 2026-07-17 via GitHub Actions._
+_Last updated 2026-07-20 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
