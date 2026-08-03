@@ -28,7 +28,7 @@ upstream-merged contributions with reproducible validation.
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-07-27 via GitHub Actions._
+_Last updated 2026-08-03 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -47,17 +47,17 @@ Read the Korean case study: [how I turn merged pull requests into engineering ev
 ## Open-source footprint
 
 <!-- OSS-ACTIVITY:START -->
-**36 merged pull requests across 24 public projects.**
+**37 merged pull requests across 24 public projects.**
 
 Latest upstream merges:
 
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21408) — feat(monta): add list product stock changes action (2026-07-28)
 - [kopia/kopia](https://github.com/kopia/kopia/pull/5504) — refactor(general): use structured logging for faults (2026-07-25)
 - [plotly/plotly.js](https://github.com/plotly/plotly.js/pull/7905) — fix: Fix scattermap selection across antimeridian (2026-07-22)
 - [kopia/kopia](https://github.com/kopia/kopia/pull/5506) — refactor(general): use structured logging in API client (2026-07-22)
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread/pull/11617) — \[documentation\]\[finsh\] Clarify variable export support (2026-07-22)
-- [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world/pull/3056) — \[BUG FIX\] Clarify IPC vertex constraint error (2026-07-21)
 
-_Last updated 2026-07-27 via GitHub Actions._
+_Last updated 2026-08-03 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
