@@ -28,7 +28,7 @@ upstream-merged contributions with reproducible validation.
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-08-10 via GitHub Actions._
+_Last updated 2026-08-17 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -57,7 +57,7 @@ Latest upstream merges:
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21408) — feat(monta): add list product stock changes action (2026-07-28)
 - [kopia/kopia](https://github.com/kopia/kopia/pull/5504) — refactor(general): use structured logging for faults (2026-07-25)
 
-_Last updated 2026-08-10 via GitHub Actions._
+_Last updated 2026-08-17 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
