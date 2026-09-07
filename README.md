@@ -28,7 +28,7 @@ upstream-merged contributions with reproducible validation.
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-08-31 via GitHub Actions._
+_Last updated 2026-09-07 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -47,17 +47,17 @@ Read the Korean case study: [how I turn merged pull requests into engineering ev
 ## Open-source footprint
 
 <!-- OSS-ACTIVITY:START -->
-**41 merged pull requests across 24 public projects.**
+**42 merged pull requests across 25 public projects.**
 
 Latest upstream merges:
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti/pull/17347) — Clarify palette pixel repetition (2026-09-03)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pull/274940) — twelite-stage 202508,R2 (2026-08-30)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21414) — Fix Google Search Console page filters (2026-08-07)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21409) — fix(jira): clarify Cloud ID discovery for MCP tools (2026-08-07)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21416) — Add Zendesk side conversation actions (2026-08-03)
-- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21408) — feat(monta): add list product stock changes action (2026-07-28)
 
-_Last updated 2026-08-31 via GitHub Actions._
+_Last updated 2026-09-07 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
