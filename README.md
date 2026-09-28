@@ -28,7 +28,7 @@ upstream-merged contributions with reproducible validation.
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-09-21 via GitHub Actions._
+_Last updated 2026-09-28 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -57,7 +57,7 @@ Latest upstream merges:
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pull/274940) — twelite-stage 202508,R2 (2026-08-30)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21414) — Fix Google Search Console page filters (2026-08-07)
 
-_Last updated 2026-09-21 via GitHub Actions._
+_Last updated 2026-09-28 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
