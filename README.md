@@ -24,11 +24,11 @@ upstream-merged contributions with reproducible validation.
 <!-- PROJECT-PULSE:START -->
 | Project | Stars | Latest release |
 | --- | ---: | --- |
-| [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | 25 | [YouTube Research MCP v2.0.0](https://github.com/coyaSONG/youtube-mcp-server/releases/tag/v2.0.0) |
+| [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | 26 | [YouTube Research MCP v2.0.0](https://github.com/coyaSONG/youtube-mcp-server/releases/tag/v2.0.0) |
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-10-12 via GitHub Actions._
+_Last updated 2026-10-19 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -57,7 +57,7 @@ Latest upstream merges:
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pull/274940) — twelite-stage 202508,R2 (2026-08-30)
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21414) — Fix Google Search Console page filters (2026-08-07)
 
-_Last updated 2026-10-12 via GitHub Actions._
+_Last updated 2026-10-19 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
