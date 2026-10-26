@@ -24,11 +24,11 @@ upstream-merged contributions with reproducible validation.
 <!-- PROJECT-PULSE:START -->
 | Project | Stars | Latest release |
 | --- | ---: | --- |
-| [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | 26 | [YouTube Research MCP v2.0.0](https://github.com/coyaSONG/youtube-mcp-server/releases/tag/v2.0.0) |
+| [YouTube Research MCP](https://github.com/coyaSONG/youtube-mcp-server) | 27 | [YouTube Research MCP v2.0.0](https://github.com/coyaSONG/youtube-mcp-server/releases/tag/v2.0.0) |
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-10-19 via GitHub Actions._
+_Last updated 2026-10-26 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -47,17 +47,17 @@ Read the Korean case study: [how I turn merged pull requests into engineering ev
 ## Open-source footprint
 
 <!-- OSS-ACTIVITY:START -->
-**44 merged pull requests across 27 public projects.**
+**47 merged pull requests across 27 public projects.**
 
 Latest upstream merges:
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/6469) — Fix Cause.Fail JSON error key (2026-10-21)
+- [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/6428) — Add FileSystem.lstat support (2026-10-21)
+- [mdn/content](https://github.com/mdn/content/pull/45521) — Document SDP's role in WebRTC negotiation (2026-10-20)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework/pull/5710) — Convert OperatingSystem documentation to Markdown (2026-09-09)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook/pull/3160) — test: cover editable playground includes (2026-09-08)
-- [luanti-org/luanti](https://github.com/luanti-org/luanti/pull/17347) — Clarify palette pixel repetition (2026-09-03)
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pull/274940) — twelite-stage 202508,R2 (2026-08-30)
-- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/pull/21414) — Fix Google Search Console page filters (2026-08-07)
 
-_Last updated 2026-10-19 via GitHub Actions._
+_Last updated 2026-10-26 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
