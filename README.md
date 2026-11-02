@@ -28,7 +28,7 @@ upstream-merged contributions with reproducible validation.
 | [ralph-research](https://github.com/coyaSONG/ralph-research) | 0 | [v0.1.6](https://github.com/coyaSONG/ralph-research/releases/tag/v0.1.6) |
 | [tmuxicate](https://github.com/coyaSONG/tmuxicate) | 0 | No tagged release yet |
 
-_Last updated 2026-10-26 via GitHub Actions._
+_Last updated 2026-11-02 via GitHub Actions._
 <!-- PROJECT-PULSE:END -->
 
 ## Selected open-source work
@@ -47,17 +47,17 @@ Read the Korean case study: [how I turn merged pull requests into engineering ev
 ## Open-source footprint
 
 <!-- OSS-ACTIVITY:START -->
-**47 merged pull requests across 27 public projects.**
+**48 merged pull requests across 28 public projects.**
 
 Latest upstream merges:
 
+- [Automattic/harper](https://github.com/Automattic/harper/pull/3844) — test(core): cover its built-in possessive regression (2026-10-26)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/6469) — Fix Cause.Fail JSON error key (2026-10-21)
 - [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/6428) — Add FileSystem.lstat support (2026-10-21)
 - [mdn/content](https://github.com/mdn/content/pull/45521) — Document SDP's role in WebRTC negotiation (2026-10-20)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework/pull/5710) — Convert OperatingSystem documentation to Markdown (2026-09-09)
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook/pull/3160) — test: cover editable playground includes (2026-09-08)
 
-_Last updated 2026-10-26 via GitHub Actions._
+_Last updated 2026-11-02 via GitHub Actions._
 <!-- OSS-ACTIVITY:END -->
 
 ## How I work
